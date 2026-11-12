@@ -1,13 +1,28 @@
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header/logo-dark.svg">
+    <img src="assets/header/logo-light.svg" alt="noema" width="560">
+  </picture>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header/tagline-dark.svg">
+    <img src="assets/header/tagline-light.svg" alt="Thought, made legible." width="520">
+  </picture>
+</div>
 
-```text
-███╗   ██╗ ██████╗ ███████╗███╗   ███╗ █████╗
-████╗  ██║██╔═══██╗██╔════╝████╗ ████║██╔══██╗
-██╔██╗ ██║██║   ██║█████╗  ██╔████╔██║███████║
-██║╚██╗██║██║   ██║██╔══╝  ██║╚██╔╝██║██╔══██║
-██║ ╚████║╚██████╔╝███████╗██║ ╚═╝ ██║██║  ██║
-╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝
-```
+---
+
+<p>
+  <a href="#why-noema"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/header/button-why-dark.svg"><img src="assets/header/button-why-light.svg" alt="Why Noema" height="40" align="top"></picture></a>
+  <a href="#signals-together"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/header/button-signals-dark.svg"><img src="assets/header/button-signals-light.svg" alt="Signals" height="40" align="top"></picture></a>
+  <a href="#roadmap"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/header/button-roadmap-dark.svg"><img src="assets/header/button-roadmap-light.svg" alt="Roadmap" height="40" align="top"></picture></a>
+  <a href="#contributing"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/header/button-contribute-dark.svg"><img src="assets/header/button-contribute-light.svg" alt="Contribute" height="40" align="top"></picture></a>
+  <a href="#project-status"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/header/callout-dark.svg"><img src="assets/header/callout-light.svg" alt="Not a mind reader: an early open research project." height="40" align="top"></picture></a>
+</p>
+
+---
+
+<div align="center">
 
 **Thought, made legible.**
 
